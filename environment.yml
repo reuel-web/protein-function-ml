@@ -1,0 +1,13 @@
+name: proteinfunc
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - matplotlib
+  - pandas
+  - scipy
+  - numpy
+  - jupyterlab
+  - seaborn
+  - scikit-learn
+prefix: /usr/local/Caskroom/miniforge/base/envs/proteinfunc
