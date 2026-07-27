@@ -1,0 +1,16 @@
+,mean_abs_shap,feature_type
+FF,0.3032,dipeptide
+isoelectric_point,0.2804,physicochemical
+FL,0.1887,dipeptide
+gravy,0.1763,physicochemical
+EI,0.1412,dipeptide
+GF,0.1162,dipeptide
+HF,0.114,dipeptide
+F,0.1086,single residue
+SP,0.1086,dipeptide
+PF,0.105,dipeptide
+KL,0.1015,dipeptide
+net_charge_ph7,0.0936,physicochemical
+ED,0.0922,dipeptide
+KR,0.092,dipeptide
+ID,0.091,dipeptide

@@ -1,0 +1,16 @@
+,mean_abs_shap,feature_type
+gravy,1.0398,physicochemical
+aromaticity,0.3647,physicochemical
+KR,0.2516,dipeptide
+I,0.2472,single residue
+P,0.1915,single residue
+V,0.1817,single residue
+W,0.1774,single residue
+S,0.1726,single residue
+PY,0.1637,dipeptide
+RA,0.1593,dipeptide
+GF,0.1556,dipeptide
+H,0.1425,single residue
+RK,0.116,dipeptide
+L,0.112,single residue
+IF,0.0985,dipeptide

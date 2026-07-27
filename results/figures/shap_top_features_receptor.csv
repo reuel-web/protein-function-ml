@@ -1,0 +1,16 @@
+,mean_abs_shap,feature_type
+C,0.5848,single residue
+gravy,0.5224,physicochemical
+LL,0.2666,dipeptide
+S,0.2505,single residue
+E,0.2431,single residue
+T,0.209,single residue
+K,0.1992,single residue
+W,0.181,single residue
+KL,0.1481,dipeptide
+IV,0.1356,dipeptide
+EL,0.1346,dipeptide
+G,0.1329,single residue
+RL,0.1313,dipeptide
+GN,0.1285,dipeptide
+FE,0.1274,dipeptide
