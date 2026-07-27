@@ -10,4 +10,8 @@ dependencies:
   - jupyterlab
   - seaborn
   - scikit-learn
+  - biopython
+  - xgboost
+  - shap
+  - streamlit
 prefix: /usr/local/Caskroom/miniforge/base/envs/proteinfunc

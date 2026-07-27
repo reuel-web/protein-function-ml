@@ -9,3 +9,4 @@ data/processed/*
 !data/processed/.gitkeep
 data/processed/*
 !data/processed/.gitkeep
+.streamlit/
