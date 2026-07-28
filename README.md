@@ -141,7 +141,7 @@ streamlit run app/app.py
 - **Class imbalance** — structural_protein (599 examples) is under-represented relative to enzyme (4,614); its lower recall (55.8%) partly reflects this
 - **No sequence order beyond adjacent pairs** — dipeptide composition captures local order, not motifs, domains, or 3D structure
 
-## What's next
+## What this offers
 
 - Expand beyond human-only to test cross-species generalization
 - Try true multi-label classification instead of dropping overlapping proteins
